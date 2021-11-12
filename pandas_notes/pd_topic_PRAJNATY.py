@@ -3,6 +3,8 @@
 
 # ## Working with Python APIs
 # 
+# _Tianyu Jiang (prajnaty@umich.edu)_
+# 
 # ### Background knowledge: What is an application programming interface (API)
 # 
 # - An API is a set of defined rules that
