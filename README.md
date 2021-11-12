@@ -1,5 +1,7 @@
 This is a repo created for STATS 507 problem sets.
 
+# PS2Q3
+
 Here is the link to the solution of PS2Q3: [PS2Q3.ipynb](./PS2Q3.ipynb)
 
 In the file, Pandas is used to read, clean, and append data files from the National Health and Nutrition Examination Survey (NHANES).
