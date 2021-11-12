@@ -28,9 +28,9 @@ Ref: https://jbhender.github.io/Stats507/F21/ps/ps2.html
 
 ## PS4Q0 - Topics in Pandas
 
-The ipynb version: [PS4Q0.ipynb](./PS4Q0.ipynb)
+The ipynb version: [PS4Q0.ipynb](./pandas_notes/PS4Q0.ipynb)
 
-The py version: [pd_topic_PRAJNATY.py](./pd_topic_PRAJNATY.py)
+The py version: [pd_topic_PRAJNATY.py](./pandas_notes/pd_topic_PRAJNATY.py)
 
 Requirement for PS4Q0: Pick a topic - such as a function, class, method,
 recipe or idiom related to the pandas python library
