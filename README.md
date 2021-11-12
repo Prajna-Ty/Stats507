@@ -36,17 +36,17 @@ and create a short tutorial or overview of that topic.
 
 1. Pick a topic not covered in the class slides.
 
-2. Do not knowingly pick the same topic as someone else.
-
-3. Use bullet points and titles (level 2 headers)
+2. Use bullet points and titles (level 2 headers)
 to create the equivalent of 3-5 “slides” of key points.
 They shouldn’t actually be slides,
 but please structure your key points
 in a manner similar to the class slides
 (viewed as a notebook).
 
-4. Include executable example code in code cells
+3. Include executable example code in code cells
 to illustrate your topic.
+
+Ref: https://jbhender.github.io/Stats507/F21/ps/ps4.html
 
 ## Link to commit history
 https://github.com/Prajna-Ty/Stats507/commits/main
